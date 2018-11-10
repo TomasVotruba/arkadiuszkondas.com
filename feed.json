@@ -1,0 +1,30 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Arkadiusz Kondas Posts",
+  "home_page_url": "https://arkadiuszkondas.com/",
+  "feed_url": "https://arkadiuszkondas.com/feed.json",
+  "description": "Posts about PHP and Machine Learning",
+  "user_comment": "This feed allows you to read the posts from this site in any feed reader that supports the JSON Feed format.",
+  "favicon": "https://arkadiuszkondas.com/favicon.ico",
+  "author": {
+    "name": "Arkadiusz Kondas"
+  },
+  "items": [
+    {
+      "id": "https://arkadiuszkondas.com/whats-new-in-php-ml-0-7-0/",
+      "url": "https://arkadiuszkondas.com/whats-new-in-php-ml-0-7-0/",
+      "title": "What's new in PHP-ML 0.7.0",
+      "content_text": "A quick overview of new features, changes and fixes in PHP-ML 0.7.0 version",
+      
+      "date_published": "2018-11-07T00:00:00+00:00"
+    },
+    {
+      "id": "https://arkadiuszkondas.com/design-patterns-strategy/",
+      "url": "https://arkadiuszkondas.com/design-patterns-strategy/",
+      "title": "Design Patterns - Strategy",
+      "content_text": "One of the main assumptions of good project programming is the 'Open/closed' principle, which says that classes should be closed for modification, but open to extension. The strategy pattern allows you to easily maintain this standard in your code.",
+      
+      "date_published": "2018-02-19T00:00:00+00:00"
+    }
+  ]
+}

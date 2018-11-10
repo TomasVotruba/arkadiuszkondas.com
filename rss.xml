@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Arkadiusz Kondas Posts</title>
+	<link>https://arkadiuszkondas.com/</link>
+	<description>Posts about PHP and Machine Learning.</description>
+	<atom:link href="https://arkadiuszkondas.com/rss.xml" rel="self" type="application/rss+xml"></atom:link>
+	<pubDate>Sat, 10 Nov 2018 19:29:38 +0000</pubDate>
+
+
+		<lastBuildDate>Wed, 07 Nov 2018 00:00:00 +0000</lastBuildDate>
+
+
+		<item>
+			<title>What's new in PHP-ML 0.7.0</title>
+			<link>https://arkadiuszkondas.com/whats-new-in-php-ml-0-7-0/</link>
+			<guid isPermaLink="false">https://arkadiuszkondas.com/whats-new-in-php-ml-0-7-0/</guid>
+			<pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+			<description>A quick overview of new features, changes and fixes in PHP-ML 0.7.0 version</description>
+			<dc:creator>Arkadiusz Kondas</dc:creator>
+		</item>
+
+		
+
+
+		<item>
+			<title>Design Patterns - Strategy</title>
+			<link>https://arkadiuszkondas.com/design-patterns-strategy/</link>
+			<guid isPermaLink="false">https://arkadiuszkondas.com/design-patterns-strategy/</guid>
+			<pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+			<description>One of the main assumptions of good project programming is the 'Open/closed' principle, which says that classes should be closed for modification, but open to extension. The strategy pattern allows you to easily maintain this standard in your code.</description>
+			<dc:creator>Arkadiusz Kondas</dc:creator>
+		</item>
+  </channel>
+</rss>
